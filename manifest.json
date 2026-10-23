@@ -1,0 +1,59 @@
+{
+  "id": "k1-db-english",
+  "title": "영어 낱말 2만(영영 뜻·예문)",
+  "description": "CEFR A1~C2 영어 낱말 20,602개의 영어 뜻풀이와 예문, 기존 15단계 한국어 뜻 670쌍.",
+  "version": "1.0.0",
+  "built": "2026-10-23T20:37:02.075Z",
+  "apps": [
+    "word-study"
+  ],
+  "licenses": [
+    "Princeton WordNet 3.1 — WordNet License(재배포 시 고지 포함) · Openjam(MIT) · words-cefr-dataset(MIT)",
+    "K1(케이원테크) 자체 작성 — CC BY-SA 4.0"
+  ],
+  "tier": "free",
+  "files": [
+    {
+      "path": "data/cefr-a1.json",
+      "bytes": 29892,
+      "sha256": "0df8e80e3c0f8f00a6818649d7eac930c527f3e759c41bc1d40a67de8240da7b",
+      "app": true
+    },
+    {
+      "path": "data/cefr-a2.json",
+      "bytes": 83927,
+      "sha256": "00b0b276ed766437ecd3748cf1d48690ac5afcb5d350e2123c744d59f357413d",
+      "app": true
+    },
+    {
+      "path": "data/cefr-b1.json",
+      "bytes": 117246,
+      "sha256": "1c82b002d6f4677dde95e45fd2a2f5227f7de5d67660053e2b4d5a8c731f5c1a",
+      "app": true
+    },
+    {
+      "path": "data/cefr-b2.json",
+      "bytes": 151780,
+      "sha256": "e7f0f02efbfaa75a494e63a992646f116fd58f1f04027fde4f2510579bbbaf0b",
+      "app": true
+    },
+    {
+      "path": "data/cefr-c1.json",
+      "bytes": 138522,
+      "sha256": "3cc554274a933def0cf63c8988b6f47810ccf13dd2952ffe6c123d2f8c8a3bf2",
+      "app": true
+    },
+    {
+      "path": "data/cefr-c2.json",
+      "bytes": 2039074,
+      "sha256": "2ac29e77c0f5ac6802d3e880fc79c63718e7852061c8786ca12e187edf5b7e44",
+      "app": true
+    },
+    {
+      "path": "data/k1-levels.json",
+      "bytes": 17027,
+      "sha256": "80d861dcc9cc52995bc977be923791277dee07dbcc2c8c1b082e971992d619ae",
+      "app": false
+    }
+  ]
+}
